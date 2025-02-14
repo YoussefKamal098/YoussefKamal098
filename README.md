@@ -25,14 +25,13 @@
 
 <h3 align="left">📚 Skills & Knowledge Gained:</h3>
 <ul>
-  <li><strong>Programming Languages:</strong> Proficient in <strong>C</strong>, <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong></li>
-  <li><strong>Web Development:</strong> Building robust backend systems using <strong>Node.js</strong> and <strong>Express</strong>, with seamless front-end integration using <strong>React</strong></li>
-  <li><strong>Database Management:</strong> Designing and managing scalable solutions with <strong>MongoDB</strong></li>
+  <li><strong>Programming Languages:</strong> Proficient in C, Python, JavaScript, and TypeScript</li>
+  <li><strong>Web Development:</strong> Building robust backend systems using Node.js and Express, with seamless front-end integration using React</li>
+  <li><strong>Database Management:</strong> Experienced in working with MongoDB and MySQL databases</li>
   <li><strong>Data Structures & Algorithms:</strong> Deep understanding of algorithmic problem solving, optimization, and complexity analysis</li>
-  <li><strong>System Programming:</strong> Mastery of low-level programming concepts including memory management, pointers, and file handling in <strong>C</strong></li>
-  <li><strong>Operating Systems & Networking:</strong> Proficient in Linux environments, shell scripting, and basic networking (TCP/IP, sockets)</li>
-  <li><strong>Version Control:</strong> Expertise in using <strong>Git</strong> for source code management and collaborative development workflows</li>
-  <li><strong>Containerization & Deployment:</strong> Experience with <strong>Docker</strong> to containerize applications and streamline deployments</li>
-  <li><strong>Front-end Basics:</strong> Working knowledge of <strong>HTML</strong> and <strong>CSS</strong> for creating responsive and interactive web interfaces</li>
+  <li><strong>Operating Systems & Networking:</strong> Proficient in Linux environments, shell scripting, and basic networking (TCP/IP, sockets); mastery of low-level programming concepts including memory management, pointers, and file handling in C; skilled in threading, multi-threading, asynchronous programming, and concurrency</li>
+  <li><strong>Version Control:</strong> Expertise in using Git for source code management and collaborative development workflows</li>
+  <li><strong>Containerization & Deployment:</strong> Experience with Docker to containerize applications and streamline deployments</li>
+  <li><strong>Front-end Basics:</strong> Working knowledge of HTML and CSS for creating responsive and interactive web interfaces</li>
 </ul>
 
