@@ -20,7 +20,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,mongodb,python,c,git,linux,docker" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,mongodb,python,c,cpp,git,linux,docker" alt="Languages and Tools"/>
 </p>
 
 <h3 align="left">📚 Skills & Knowledge:</h3>
