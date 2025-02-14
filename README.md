@@ -25,7 +25,7 @@
 
 <h3 align="left">📚 Skills & Knowledge:</h3>
 <ul>
-  <li><strong>Programming Languages:</strong> Proficient in C, Python, JavaScript, and TypeScript</li>
+  <li><strong>Programming Languages:</strong> Proficient in C, C++, Python, JavaScript, and TypeScript</li>
   <li><strong>Web Development:</strong> Building robust backend systems using Node.js and Express, with seamless front-end integration using React</li>
   <li><strong>Database Management:</strong> Experienced in working with MongoDB and MySQL databases</li>
   <li><strong>Data Structures & Algorithms:</strong> Deep understanding of algorithmic problem solving, optimization, and complexity analysis</li>
