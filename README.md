@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://www.linkedin.com/in/youssef-samuel-149909220/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Backend+Developer;MERN+Stack+Developer;ALX+Software+Engineering+Alumnus&font=Bold+Code&center=true&height=55&color=30D050&pause=1750&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Backend+Developer;MERN+Stack+Developer&font=Bold+Code&center=true&height=55&color=30D050&pause=1750&size=20" alt="Typing SVG" />
   </a>
 </p>
 
