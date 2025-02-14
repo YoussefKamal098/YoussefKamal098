@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm Youssef Samuel Kamal</h1>
 
-<h2 align="center">Backend Developer | MERN Stack Developer</h2>
+<h2 align="center"> Software Engineer | Backend Developer | MERN Stack Developer</h2>
 
 <p align="center">
   <!-- Typing SVG -->
