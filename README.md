@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://www.linkedin.com/in/youssef-samuel-149909220/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Backend+Developer;MERN+Stack+Developer&font=Bold+Code&center=true&height=55&color=30D050&pause=1750&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Backend+Developer;MERN+Stack+Developer;ALX+Software+Engineering+Alumnus&font=Bold+Code&center=true&height=55&color=30D050&pause=1750&size=20" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,18 +20,19 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,python,c,git,linux,docker" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,mongodb,python,c,git,linux,docker" alt="Languages and Tools"/>
 </p>
 
-<h3 align="left">📚 Skills Acquired:</h3>
+<h3 align="left">📚 Skills & Knowledge Gained:</h3>
 <ul>
-  <li>Proficient in <strong>C</strong>, <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong></li>
-  <li>Backend development with <strong>Node.js</strong> and <strong>Express</strong></li>
-  <li>Database management using <strong>MongoDB</strong></li>
-  <li>Front-end integration with <strong>React</strong></li>
-  <li>Strong grasp of data structures, algorithms, and software design principles</li>
-  <li>Experience with version control using <strong>Git</strong></li>
-  <li>Comfortable working in <strong>Linux</strong> environments</li>
-  <li>Containerization with <strong>Docker</strong></li>
-  <li>Solid understanding of Agile methodologies and collaborative workflows</li>
+  <li><strong>Programming Languages:</strong> Proficient in <strong>C</strong>, <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong></li>
+  <li><strong>Web Development:</strong> Building robust backend systems using <strong>Node.js</strong> and <strong>Express</strong>, with seamless front-end integration using <strong>React</strong></li>
+  <li><strong>Database Management:</strong> Designing and managing scalable solutions with <strong>MongoDB</strong></li>
+  <li><strong>Data Structures & Algorithms:</strong> Deep understanding of algorithmic problem solving, optimization, and complexity analysis</li>
+  <li><strong>System Programming:</strong> Mastery of low-level programming concepts including memory management, pointers, and file handling in <strong>C</strong></li>
+  <li><strong>Operating Systems & Networking:</strong> Proficient in Linux environments, shell scripting, and basic networking (TCP/IP, sockets)</li>
+  <li><strong>Version Control:</strong> Expertise in using <strong>Git</strong> for source code management and collaborative development workflows</li>
+  <li><strong>Containerization & Deployment:</strong> Experience with <strong>Docker</strong> to containerize applications and streamline deployments</li>
+  <li><strong>Front-end Basics:</strong> Working knowledge of <strong>HTML</strong> and <strong>CSS</strong> for creating responsive and interactive web interfaces</li>
 </ul>
+
