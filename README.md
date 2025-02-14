@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,mongodb,python,c,git,linux,docker" alt="Languages and Tools"/>
 </p>
 
-<h3 align="left">📚 Skills & Knowledge Gained:</h3>
+<h3 align="left">📚 Skills & Knowledge :</h3>
 <ul>
   <li><strong>Programming Languages:</strong> Proficient in C, Python, JavaScript, and TypeScript</li>
   <li><strong>Web Development:</strong> Building robust backend systems using Node.js and Express, with seamless front-end integration using React</li>
