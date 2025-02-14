@@ -29,7 +29,7 @@
   <li><strong>Web Development:</strong> Building robust backend systems using Node.js and Express, with seamless front-end integration using React</li>
   <li><strong>Database Management:</strong> Experienced in working with MongoDB and MySQL databases</li>
   <li><strong>Data Structures & Algorithms:</strong> Deep understanding of algorithmic problem solving, optimization, and complexity analysis</li>
-  <li><strong>Operating Systems & Networking:</strong> Proficient in Linux environments, shell scripting, and basic networking (TCP/IP, sockets); mastery of low-level programming concepts including memory management, pointers, and file handling in C; skilled in threading, multi-threading, asynchronous programming, and concurrency</li>
+ <li><strong>Operating Systems & Networking:</strong> Proficient in Linux environments, shell scripting, and networking basics; mastery of low-level programming concepts including memory management, pointers, and file handling in C; skilled in threading, multi-threading, asynchronous programming, and concurrency</li>
   <li><strong>Version Control:</strong> Expertise in using Git for source code management and collaborative development workflows</li>
   <li><strong>Containerization & Deployment:</strong> Experience with Docker to containerize applications and streamline deployments</li>
   <li><strong>Front-end Basics:</strong> Working knowledge of HTML and CSS for creating responsive and interactive web interfaces</li>
